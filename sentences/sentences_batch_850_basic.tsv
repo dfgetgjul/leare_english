@@ -1,0 +1,83 @@
+English	Chinese	Tag
+I can't connect to the database.	我无法连接到数据库。	programming
+Please check your environment variables.	请检查你的环境变量。	programming
+Let's schedule a daily standup meeting.	让我们安排一个每日站会。	general
+I lost my unsaved work.	我丢失了未保存的工作。	general
+Make sure to document the deployment steps.	确保记录部署步骤。	programming
+I need to debug this issue.	我需要调试这个问题。	programming
+She will join the call in five minutes.	她将在五分钟后加入电话会议。	general
+Can you share the configuration file?	你能分享配置文件吗？	programming
+The UI needs a small fix.	界面需要一个小修复。	programming
+Please confirm the meeting time.	请确认会议时间。	general
+I'm learning a new programming language.	我正在学习一门新的编程语言。	programming
+The test environment is ready.	测试环境已准备好。	programming
+Don't forget to lock the door.	别忘了锁门。	general
+He often commits code late at night.	他经常在深夜提交代码。	programming
+We need to improve the login flow.	我们需要改进登录流程。	programming
+Turn off the TV before bed.	睡前把电视关掉。	general
+Please document the setup steps.	请记录搭建步骤。	programming
+The update includes security patches.	更新包含安全补丁。	programming
+Can you approve the pull request?	你能批准这个拉取请求吗？	programming
+I feel tired after work.	下班后我感觉很累。	general
+The app requires authentication.	该应用需要认证。	programming
+Please run the unit tests locally.	请在本地运行单元测试。	programming
+She likes to read in the evening.	她喜欢在晚上阅读。	general
+The frontend team pushed new changes.	前端团队推送了新改动。	programming
+I need to buy groceries.	我需要买杂货。	general
+Please verify the database schema.	请验证数据库模式。	programming
+We fixed the memory consumption issue.	我们修复了内存消耗问题。	programming
+Let's have lunch at noon.	我们中午吃午饭。	general
+The build server is under maintenance.	构建服务器正在维护中。	programming
+I will update the documentation later.	我稍后会更新文档。	programming
+Do you know how to deploy this service?	你知道如何部署这个服务吗？	programming
+It's important to get enough sleep.	充足睡眠很重要。	general
+Please export the report as PDF.	请把报告导出为 PDF。	programming
+He will fix the CSS layout tomorrow.	他明天会修复 CSS 布局。	programming
+I enjoy walking in the park.	我喜欢在公园散步。	general
+The error appears only on mobile.	该错误只在移动端出现。	programming
+Please empty the recycle bin.	请清空回收站。	general
+We should add logging for this action.	我们应该为该操作添加日志。	programming
+I will set up continuous integration.	我会搭建持续集成。	programming
+Can you send the invoice?	你能发送发票吗？	general
+The cache needs to be invalidated.	缓存需要被使失效。	programming
+I like cooking new recipes.	我喜欢尝试新的菜谱。	general
+Please run the performance benchmark.	请运行性能基准测试。	programming
+The dark mode looks great.	暗色模式看起来很好。	programming
+He called to confirm the appointment.	他打电话确认了预约。	general
+I will create a database backup.	我会创建数据库备份。	programming
+Can you reduce the image size?	你能减小图片尺寸吗？	programming
+We met at the cafe yesterday.	我们昨天在咖啡馆见面。	general
+The new icon is clearer now.	新的图标现在更清晰了。	programming
+Please enable two-factor authentication.	请启用两步验证。	programming
+I will travel next month.	我下个月要旅行。	general
+The code smells in this module.	这个模块有代码异味。	programming
+Remember to charge your phone.	记得给手机充电。	general
+Someone pushed to the wrong branch.	有人推送到了错误的分支。	programming
+Please restart the service after update.	更新后请重启服务。	programming
+I like listening to podcasts.	我喜欢听播客。	general
+The deployment failed due to timeout.	部署因超时而失败。	programming
+Let's write the release notes.	我们来写发行说明。	programming
+Can we postpone the meeting?	我们可以推迟会议吗？	general
+Please check the permissions on the file.	请检查文件的权限。	programming
+I will practice coding every evening.	我会每晚练习编程。	programming
+Don't leave your bag unattended.	不要把包放在无人看管的地方。	general
+The API must validate user input.	API 必须验证用户输入。	programming
+I found a typo in the README.	我在 README 中发现了一个拼写错误。	programming
+We should refactor the login module.	我们应该重构登录模块。	programming
+Let's take a short walk.	我们去短短散步吧。	general
+Please schedule the production deploy.	请安排生产环境部署。	programming
+The application logs show the error.	应用日志显示了错误。	programming
+I will make coffee for everyone.	我会为大家做咖啡。	general
+Please link the stylesheet in the head.	请在 head 中链接样式表。	programming
+We need to reduce response time.	我们需要减少响应时间。	programming
+I enjoy reading technical articles.	我喜欢看技术文章。	programming
+This task is higher priority than the others.	这个任务比其他任务优先级更高。	general
+Please clear the cache and try again.	请清除缓存然后再试一次。	programming
+He always arrives on time.	他总是准时到达。	general
+The UI looks better on mobile.	移动端的界面看起来更好。	programming
+We must fix the memory leak.	我们必须修复内存泄漏。	programming
+Can you explain the algorithm in simple terms?	你能用简单的方式解释这个算法吗？	programming
+I need to set up a development environment.	我需要搭建开发环境。	programming
+This feature is not supported yet.	这个功能还不支持。	programming
+Please leave your feedback in the form.	请在表格里留下你的反馈。	general
+I forgot my password, how can I reset it?	我忘记密码了，怎么重置？	general
